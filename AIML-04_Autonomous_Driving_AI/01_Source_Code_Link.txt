@@ -1,0 +1,5 @@
+PROJECT: Autonomous Driving AI (ADAS)
+GitHub: https://github.com/Mymudh/autonomous-driving-ai
+Live app: https://adas-autonomous-driving.onrender.com/
+Dataset: https://www.kaggle.com/datasets/solesensei/solesensei_bdd100k?resource=download
+API health endpoint documented by source: /api/health (verify deployed base URL).

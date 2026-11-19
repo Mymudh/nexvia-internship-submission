@@ -1,0 +1,5 @@
+PROJECT: Financial Fraud Detection Platform
+GitHub: https://github.com/Mymudh/financial-fraud-detection
+Frontend: https://financial-fraud-detection-nu.vercel.app/
+Dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+API: Public Render service URL must be confirmed in Render service settings; supplied dashboard URL is not the public API URL.

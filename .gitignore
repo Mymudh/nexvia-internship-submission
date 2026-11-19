@@ -1,0 +1,22 @@
+**/.idea/
+**/*.iml
+**/.vscode/
+**/__pycache__/
+**/*.py[cod]
+**/.pytest_cache/
+**/.venv/
+**/venv/
+**/env/
+**/node_modules/
+**/dist/
+**/.env
+**/.env.*
+!.env.example
+**/*.log
+.DS_Store
+Thumbs.db
+# Local database files
+*.db
+*.sqlite
+*.sqlite3
+

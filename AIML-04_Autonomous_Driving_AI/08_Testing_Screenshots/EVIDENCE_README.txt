@@ -1,0 +1,1 @@
+9 supplied application screenshots are included in this folder. They show UI states only and are not substitutes for test logs, model inference proof, or measured performance. Add dated screenshots of successful endpoint/model tests before final submission.
